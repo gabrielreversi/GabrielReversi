@@ -7,7 +7,6 @@
 - Apaixonado por visualização de dados 📊
 - Estudante de ciência de dados 🔬
 
-Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção aos detalhes, chamando as pessoas para que entrem no meu notebook.
 
 [Meu perfil no médium com vários artigos](https://medium.com/@gabrielreversi)
 
