@@ -2,18 +2,11 @@
 
 ## Hello! I'm Gabriel Reversi
 
-- Sou consultor de Business Intelligence 🧮
-- Administrador de formação 💼
-- Apaixonado por visualização de dados 📊
-- Estudante de ciência de dados 🔬
+- Business Intelligence Consultant 🧮
+- Data Scientist Student 🔬
+- 
 
+[Profile Médium](https://medium.com/@gabrielreversi) 📰
 
-[Meu perfil no médium com vários artigos](https://medium.com/@gabrielreversi)
-
-[LinkedIn](https://www.linkedin.com/in/gabriel-carvalho-130b15138/) 
-
-
-**Links para me acharem:**
-* [Artigo: Pensamento Visual](https://medium.com/@gabrielreversi/aprenda-a-pensar-visualmente-ad2017ed2e39)
-* [Artigo: 2 Maneiras de pensar visualmente para análise de dados](https://medium.com/@gabrielreversi/2-maneiras-de-pensar-visualmente-para-an%C3%A1lise-de-dados-conceitual-e-data-driven-e9e6a1456866)
+[Profile LinkedIn](https://www.linkedin.com/in/gabriel-carvalho-130b15138/) 📓
 
