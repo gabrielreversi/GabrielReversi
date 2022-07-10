@@ -9,7 +9,8 @@
 
 
 [Meu perfil no médium com vários artigos](https://medium.com/@gabrielreversi)
-[LinkedIn](https://www.linkedin.com/in/gabriel-carvalho-130b15138/) ![image](https://user-images.githubusercontent.com/38542150/178163523-a0c37b3e-9f5c-44fe-9908-9b7ddd8bdb63.png)
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-carvalho-130b15138/) 
 
 
 **Links para me acharem:**
