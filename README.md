@@ -4,7 +4,6 @@
 
 - Business Intelligence Consultant 🧮
 - Data Scientist Student 🔬
-- 
 
 [Profile Médium](https://medium.com/@gabrielreversi) 📰
 
