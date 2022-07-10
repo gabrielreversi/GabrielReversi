@@ -5,7 +5,7 @@
 - Business Intelligence Consultant 🧮
 - Data Scientist Student 🔬
 
-[Profile Médium](https://medium.com/@gabrielreversi) 📰
 
+[Profile Médium](https://medium.com/@gabrielreversi) 📰
 [Profile LinkedIn](https://www.linkedin.com/in/gabriel-carvalho-130b15138/) 📓
 
