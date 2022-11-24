@@ -2,7 +2,7 @@
 - Working as Data Analyst and Data Scientist 📊
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/gabrielreversi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielreversi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielreversi&layout=compact&langs_count=7&theme=dracula"/>
